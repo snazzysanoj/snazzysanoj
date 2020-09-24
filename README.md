@@ -67,15 +67,11 @@
     
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/snazzysanoj/snazzysanoj/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/snazzysanoj/snazzysanoj/master/assets/react.svg" alt="react" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="#">
     <img src="https://raw.githubusercontent.com/snazzysanoj/snazzysanoj/master/assets/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/snazzysanoj/snazzysanoj/master/assets/react.svg" alt="react" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="#">
@@ -131,6 +127,11 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/snazzysanoj/snazzysanoj/master/assets/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/snazzysanoj/snazzysanoj/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+  </a>
+
 </p>
 
 ---
